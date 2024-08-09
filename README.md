@@ -17,7 +17,7 @@ Note : Loading may take some time due to limited  server processing capability.
 
 ## Outputs
 <img width="956" alt="356581473-3f98e226-d9a5-4036-9c35-06481f292c8a" src="https://github.com/user-attachments/assets/60c7ea7f-1604-421b-8265-5b171da0edaa">
-<img width="956" alt="356581990-da25f2ac-63e7-4286-98a4-cfeb0dd2b8eb" src="https://github.com/user-attachments/assets/cf365ecc-56d0-4f6f-aee8-b474c54b7ec6">
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/1bc6a9c0-2698-483c-b478-80bf8d29f442">
 
 
 ## Key Features
