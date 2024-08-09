@@ -57,23 +57,23 @@ The project is cretated so that the induvidual blocks can be changed to suit the
 
 
 #### Installing pinecone client
-```http
+```bash
 pip install pinecone --upgrade pinecone-client
 ```
 #### Connecting to index and upserting
 
-```http
+```bash
 from pinecone import Pinecone
 pc = Pinecone(os.environ["PINECONE_API_KEY"])
 index = pc.Index(os.environ["PINECONE_IDX"])
 ```
-```http
+```bash
 vectors = 'Create Vectors'
 index.upsert(vectors)
 ```
 
 #### Query top k vectors
-```http
+```bash
 out = index.query(
       vector = vectors.tolist(),
       top_k = k,
@@ -94,12 +94,12 @@ out = index.query(
 - numpy
 #### Installation :
 After pulling this repo, run:
-```http
+```bash
 pip install requirements
 ```
 #### env file setup :
 setup an env file to store api keys and index information as the template :
-```http
+```bash
 pinecone_key = "your_api_key"
 pinecone_index = "your_index_name"
 ```
