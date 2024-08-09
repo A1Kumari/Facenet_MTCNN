@@ -1,4 +1,4 @@
-!pip3 install requirements.txt
+!pip3 install requirements
 import streamlit as st
 import cv2
 import base64
