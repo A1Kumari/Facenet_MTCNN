@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+opencv-python
+pinecone
+scipy
+mtcnn
+keras-facenet
+python-dotenv
+scikit-learn
