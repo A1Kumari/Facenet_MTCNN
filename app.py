@@ -6,7 +6,7 @@ from detection import *
 background_image = """
 <style>
 [data-testid="stAppViewContainer"] > .main {
-    background-image: url("https://images.pexels.com/photos/773297/pexels-photo-773297.jpeg?auto=compress&cs=tinysrgb&w=1200");
+    background-image: url("https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
     background-position: center;  
     background-repeat: no-repeat;
