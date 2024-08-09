@@ -1,6 +1,5 @@
-pip install opencv-python
 import streamlit as st
-import cv2
+#import cv2
 import base64
 from detection import *
 
