@@ -1,7 +1,7 @@
 
 # Face Recognition Using MTCNN, VGG-Face2 and Pinecone DB
 
-An implementation of siamease neural networks on one shot learning tasks for face recognition tasks utilising MTCNN, FaceNet and Pinecone DB for building an interactive and easy to use application to store and detect faces from images as well as camera inputs accuratly.
+An implementation of siamease neural networks on one shot learning tasks for face recognition tasks utilising MTCNN, FaceNet and Pinecone DB for building an interactive and easy to use application to store and detect faces from images as well as camera inputs accurately.
 
 
 ## Deployment
