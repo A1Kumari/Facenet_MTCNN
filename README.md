@@ -10,6 +10,7 @@ To use this project application run
 
 ```bash
   https://face-recognition-tf-1.onrender.com
+  https://huggingface.co/spaces/majorSeaweed/Face_Recognition_App
 ```
 Note : Loading may take some time due to limited  server processing capability.
 
